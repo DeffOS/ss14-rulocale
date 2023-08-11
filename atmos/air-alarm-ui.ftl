@@ -11,6 +11,7 @@ air-alarm-ui-window-address-label = Адрес
 air-alarm-ui-window-device-count-label = Всего устройств
 air-alarm-ui-window-resync-devices-label = Ресинхр
 air-alarm-ui-window-mode-label = Режим
+air-alarm-ui-window-auto-mode-label = Авто-режим
 air-alarm-ui-window-pressure = { $pressure } кПа
 air-alarm-ui-window-pressure-indicator = Давление: [color={ $color }]{ $pressure } кПа[/color]
 air-alarm-ui-window-temperature = { $tempC } °C ({ $temperature } К)
@@ -34,6 +35,8 @@ air-alarm-ui-mode-none = Нет
 ### General
 
 air-alarm-ui-widget-enable = Включено
+air-alarm-ui-widget-copy = Copy settings to similar devices
+air-alarm-ui-widget-copy-tooltip = Copies the settings of this device to all devices in this air alarm tab.
 air-alarm-ui-widget-ignore = Игнорировать
 air-alarm-ui-atmos-net-device-label = Адрес: { $address }
 
